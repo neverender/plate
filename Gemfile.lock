@@ -74,7 +74,6 @@ DEPENDENCIES
   activerecord
   capybara
   mysql2 (= 0.2.7)
-  rack-test
   rspec
   sinatra
   sinatra-reloader
