@@ -1,0 +1,20 @@
+dev:
+  adapter: mysql2
+  database: local
+  host: 127.0.0.1
+  username:
+  password:
+
+prod:
+  adapter: mysql2
+  database: local
+  host: 127.0.0.1
+  username:
+  password:
+
+test:
+  adapter: mysql2
+  host: 127.0.0.1
+  username: 
+  password: 
+  database:
